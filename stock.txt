@@ -1,0 +1,51 @@
+10
+CPU
+Intel Core i7 13700F
+CPUI713
+1600
+9
+Graphics Card
+ASUS NVidia RTX3060 6GB
+GPUASUS3060
+1800
+3
+Graphics Card
+ZOTAC Nvidia RTX4070 12GB
+GPUZOTAC4070
+2700
+2
+Graphics Card
+ASUS Nvidia RTX3080 12GB
+GPUASUS3080
+2900
+3
+Motherboard
+MSI ChipsetIntel Gaming RGB
+MOBOMSIGAMING
+1050
+1
+RAM
+Corsair Vengance 32GB DDR5
+RAMCORSAIR32D5
+650
+1
+Keyboard
+HyperX_Alloy_Fps
+AlloyFPS2
+500
+5
+Keyboard
+Razer_Mamba
+RAZERKEYBOARD
+1000
+2
+CPU
+IntelCoreI5
+CPUI513
+800
+2
+Keyboard
+SIU_KEYBOARD
+SIUKEYBOARD
+9999
+3

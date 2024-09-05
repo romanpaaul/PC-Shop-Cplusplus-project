@@ -1,0 +1,15 @@
+Keyboards
+HyperX_Alloy_Fps
+AlloyFPS2
+500
+5
+Keyboards
+Razer_Mamba
+RAZERKEYBOARD
+1000
+2
+Keyboards
+SIU_KEYBOARD
+SIUKEYBOARD
+9999
+3
